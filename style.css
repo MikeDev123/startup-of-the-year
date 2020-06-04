@@ -28,10 +28,9 @@ hr{
 	border-radius: 300px;
 	text-transform: uppercase;
 }
-
 .btn-primary{
-	background-color: #F05F44;
-	border-color: #F05F44;
+	background-color: #F05F86;
+	border-color: #F05F86;
 }
 
 .btn-primary:hover{
